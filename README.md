@@ -1,23 +1,20 @@
-# Erol Bicer's Responsive Portfolio Website
-## Website URL: www.erolbicer.com
+## Title:
+<h4>Oussama Horrigue - Portfolio</h4>
 
-- The design is based on [Bedimcode](https://github.com/bedimcode)
-- The resume is created on [FlowCV](https://flowcv.com/)
-- The email service provider is [EmailJs](https://www.emailjs.com/)
-- Contact form validations are added using [JavaScript](https://www.youtube.com/watch?v=fz8bwvn9lA4) 
-- Normal alerts are replaced with Sweet Alert [SweetAlert](https://sweetalert.js.org)
-- The favicon generator is [favicon.io](https://favicon.io/favicon-generator/)
-- The Open Graph Meta Tags are added [Open Graph](https://ogp.me/)
-- Videos are embedded from [YouTube](https://www.youtube.com)
-- Presentations are  embedded from [Beautiful.ai](https://www.beautiful.ai)
-- Added Google Tag script for [Google Analytics](https://analytics.google.com)
-- Online meeting integration by [Calendly](https://calendly.com/)
+## Author:
+<h4>Oussama Horrigue</h4>
 
-### Landing Page Light
+## Link:
+<a href="https://oussamahorrigue.github.io/myPortfolio/" target="_blank"><h3>https://oussamahorrigue.github.io/myPortfolio/</h3></a>
 
-![preview img](./assets/snaps/light.png)
 
-### Landing Page Dark
+## Connect with me:
+<p align="left">
 
-![preview img](./assets/snaps/dark.png)
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+
+</p>
 
